@@ -1,114 +1,92 @@
 {
-  "name": "Sam Robbins",
-  "linkedin": "sam-robbins-gb",
-  "github": "samrobbins85",
-  "email": "samrobbinsgb@gmail.com",
-  "website": "samrobbins.uk",
-  "languages": ["JavaScript", "TypeScript", "Python", "SQL", "CSS"],
-  "librariesAndFrameworks": [
-    "React",
-    "Next.js",
-    "Node.js",
-    "React Router",
-    "Hugo",
-    "Styled Components",
-    "Tailwind CSS",
-    "Storybook",
-    "Cypress",
-    "Jest"
-  ],
+  "name": "Adrian Stobbe",
+  "linkedin": "adrian-stobbe",
+  "github": "elchead",
+  "email": "stobbe.adrian@gmail.com",
+  "website": "astobbe.me",
+  "languages": ["Golang", "Python", "JavaScript", "C++", "Rust"],
   "software": ["Git", "Bash", "Powershell"],
   "platforms": ["Arduino", "Raspberry Pi", "Linux"],
   "education": [
     {
-      "institution": "Durham University",
-      "qualification": "Computer Science BSc",
-      "duration": "Oct 2018 - Jul 2021",
-      "description": "First Class Honours - Dissertation in comparing JavaScript and Rust Performance"
+      "institution": "Technical University Munich",
+      "qualification": "Computational Science & Engineering MSc",
+      "duration": "Oct 2020 - 2023",
+      "description": "Focus on distributed and parallel computing"
+    },
+    {
+      "institution": "UPC, Barcelona",
+      "qualification": "Exchange semester",
+      "duration": "Sept 2021 - Jan 2022",
+      "description": "Focus on distributed computing, OS and side projects"
+    },
+    {
+      "institution": "Tsinghua University, Beijing",
+      "qualification": "Exchange semester",
+      "duration": "Sept 2019 - Feb 2020",
+      "description": "Focus on Chinese language and course on Combinatorics & Algorithm design + Big Data & Machine learning"
+    },
+    {
+      "institution": "Technical University Berlin",
+      "qualification": "Engineering Science BSc",
+      "duration": "Oct 2017 - Oct 2020",
+      "description": "Focus on numerical simulation and fluid mechanics"
+    }
+  ],
+  "honors": [
+    {
+      "role": "German Academic Scholarship Foundation (Studienstiftung)",
+      "duration": "Sept 2019 - Present"
+    },
+    {
+      "role": "Deutschlandstipendium at TU Berlin",
+      "duration": "Oct 2017 - Sept 2019"
     }
   ],
   "experience": [
     {
-      "role": "Software Engineer",
-      "duration": "Aug 2021 - Present",
-      "description": "Front end development with React, TypeScript and Styled Components. Includes testing with Jest and Cypress and documentation with Storybook",
-      "company": "CybSafe"
+      "role": "Rotational Trainee (STAR program)",
+      "duration": "Mar 2021 - Present",
+      "description": "part of the Observability + CLI team of the OSS project Kyma, Master’s thesis on resource management for HPC jobs with unpredictable memory needs in Kubernetes through container migration and controlling",
+      "company": "SAP SE"
     },
     {
-      "role": "Contract Software Developer",
-      "duration": "Jul 2021 - Present",
-      "description": "Developing a Next.js based Applicant Tracking System",
-      "company": "Postapply"
+      "role": "Working student + intern",
+      "duration": "May 2020 - Jan 2021",
+      "description": "Bachelor's thesis on coupled FEM+SPH to simulate inhibition inside a 3D laundry machine (C++), application support and development of a post-processing tool (Python & C++)",
+      "company": "dive solutions GmbH"
     },
     {
-      "role": "Lab Demonstrator",
-      "duration": "Oct 2020 - Mar 2020",
-      "description": "Taught Software Engineering to second year students. Involves guiding them in creating a project for an external client.",
-      "company": "Durham University"
-    },
-    {
-      "role": "Summer Intern",
-      "duration": "Jul 2020 - Sep 2020",
-      "description": "Built a tool to compare DNS services and a tool to detect the presence of Intel security measures on a computer",
-      "company": "Global Cyber Alliance"
-    }
-  ],
-  "writing": [
-    {
-      "title": "Migration From jQuery to Next.js: A Guide",
-      "link": "https://www.smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-      "date": "Aug 2022",
-      "publication": "Smashing Magazine"
-    },
-    {
-      "title": "A beginner's guide to JSON, the data format for the internet",
-      "link": "https://stackoverflow.blog/2022/06/02/a-beginners-guide-to-json-the-data-format-for-the-internet/",
-      "date": "Jun 2022",
-      "publication": "Stack Overflow"
-    },
-    {
-      "title": "Adding form submissions to Notion using Next.js and Netlify",
-      "link": "https://www.netlify.com/blog/form-handling-nextjs-notion/",
-      "date": "Mar 2022",
-      "publication": "Netlify"
-    },
-    {
-      "title": "Write A Plugin For Tailwind CSS",
-      "link": "https://egghead.io/blog/write-a-plugin-for-tailwind-css",
-      "date": "Apr 2021",
-      "publication": "Egghead"
+      "role": "Working student",
+      "duration": "Oct 2018 - Sept 2019",
+      "description": "Development of a new data analysis tool (Python) for combustion experiments at the Institute of Experimental Fluid Dynamics",
+      "company": "TU Berlin"
     }
   ],
   "project": [
     {
-      "name": "Train Departures",
-      "link": "https://samrobbins.uk/portfolio/train-departures",
-      "description": "A command line tool and accompanying website to get a train departure board",
-      "date": "Aug 2021 - Nov 2021"
+      "name": "K8s migration controller",
+      "link": "https://github.com/elchead/k8s-migration-controller",
+      "description": "A controller to preemptively migrate stateful jobs in K8s based on memory usage",
+      "date": "Feb 2022 - Aug 2022"
     },
     {
-      "name": "Colour Accessibility Test",
-      "link": "https://samrobbins.uk/portfolio/colour-accessibility-test-for-tailwind-css",
-      "description": "A website to test the colour contrast of the Tailwind CSS colour palette against white and black backgrounds",
-      "date": "Nov 2020"
+      "name": "Personal CRM",
+      "link": "https://github.com/elchead/people",
+      "description": "A Progressive Web App to stay in touch with people",
+      "date": "Mar 2022"
     },
     {
-      "name": "Easy DMARC",
-      "link": "https://samrobbins.uk/portfolio/easy-dmarc",
-      "description": "Built a tool which made it easier to add DMARC email verification to your domain on Vercel. This won third prize in the Security category",
-      "date": "Aug 2020"
+      "name": "Personal Search Engine",
+      "link": "https://github.com/elchead/misou",
+      "description": "A native app to gather information from multiple sources ",
+      "date": "Oct 2021 - Jan 2022"
     },
     {
-      "name": "DNS Comparison Website",
-      "link": "https://samrobbins.uk/portfolio/dns-comparison-website",
-      "description": "A website to compare the performance of DNS providers for latency and blocking",
-      "date": "Jul 2020 - Aug 2020"
-    },
-    {
-      "name": "Notes Website",
-      "link": "https://samrobbins.uk/portfolio/notes-website",
-      "description": " Used Markdown and React to create a website to display and organise my notes ",
-      "date": "Jul 2020 - Jul 2021"
+      "name": "Blog CLI",
+      "link": "https://github.com/elchead/blog-cli",
+      "description": "A tool to draft posts inside Obsidian and publish conveniently to my Github blog",
+      "date": "Nov 2021"
     }
   ]
 }

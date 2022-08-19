@@ -29,10 +29,10 @@ function App() {
           <Section title="Skills">
             <>
               <SkillList title="Programming Languages" list={data.languages} />
-              <SkillList
+              {/* <SkillList
                 title="Libraries & Frameworks"
                 list={data.librariesAndFrameworks}
-              />
+              /> */}
             </>
           </Section>
 
@@ -48,7 +48,7 @@ function App() {
               ))}
             </div>
           </Section>
-          <Section title="Writing">
+          {/* <Section title="Writing">
             <div className="grid gap-y-2">
               {data.writing.map((x) => (
                 <Item
@@ -59,7 +59,7 @@ function App() {
                 />
               ))}
             </div>
-          </Section>
+          </Section> */}
           <Section title="Education">
             {data.education.map((x) => (
               <Item
@@ -78,6 +78,18 @@ function App() {
                   link={x.link}
                   time={x.date}
                   description={x.description}
+                />
+              ))}
+            </div>
+          </Section>
+          <Section title="Honors">
+            <div className="grid gap-y-2">
+              {data.honors.map((x) => (
+                <Item
+                  title={x.role}
+                  // location={x.company}
+                  time={x.duration}
+                  // description={x.description}
                 />
               ))}
             </div>
