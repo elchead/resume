@@ -3,6 +3,7 @@ import data from "../data.json";
 import Social from "./components/Social";
 import Section from "./components/Section";
 import SkillList from "./components/SkillList";
+import Hobbies from "./components/Hobbies";
 import Item from "./components/Item";
 function App() {
   return (
@@ -82,7 +83,7 @@ function App() {
               ))}
             </div>
           </Section>
-          <Section title="Honors">
+          <Section title="Honors / Certificates">
             <div className="grid gap-y-2">
               {data.honors.map((x) => (
                 <Item
@@ -93,6 +94,20 @@ function App() {
                 />
               ))}
             </div>
+          </Section>
+
+          <Section title="Hobbies">
+            <Hobbies list={data.hobbies} />
+            {/* <div className="grid gap-y-2">
+              {data.hobbies.map((x) => (
+                <Item
+                  title={x.role}
+                  // location={x.company}
+                  time={x.duration}
+                  // description={x.description}
+                />
+              ))}
+            </div> */}
           </Section>
         </div>
       </div>

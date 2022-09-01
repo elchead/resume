@@ -17,23 +17,25 @@
     {
       "institution": "UPC, Barcelona",
       "qualification": "Exchange semester",
-      "duration": "Sept 2021 - Jan 2022",
-      "description": "Focus on distributed computing, OS and side projects"
+      "duration": "Sept 2021 - Jan 2022"
     },
     {
       "institution": "Tsinghua University, Beijing",
       "qualification": "Exchange semester",
-      "duration": "Sept 2019 - Feb 2020",
-      "description": "Focus on Chinese language and course on Combinatorics & Algorithm design + Big Data & Machine learning"
+      "duration": "Sept 2019 - Feb 2020"
     },
     {
       "institution": "Technical University Berlin",
       "qualification": "Engineering Science BSc",
       "duration": "Oct 2017 - Oct 2020",
-      "description": "Focus on numerical simulation and fluid mechanics"
+      "description": "Focus on numerical simulation and fluid mechanics (top 5%)"
     }
   ],
   "honors": [
+    {
+      "role": "Certified Kubernetes Application Developer (CNCF)",
+      "duration": "Sept 2021 - Sept 2024"
+    },
     {
       "role": "German Academic Scholarship Foundation (Studienstiftung)",
       "duration": "Sept 2019 - Present"
@@ -42,6 +44,12 @@
       "role": "Deutschlandstipendium at TU Berlin",
       "duration": "Oct 2017 - Sept 2019"
     }
+  ],
+  "hobbies": [
+    "linguaphile speaking conversational Chinese, fluent Spanish",
+    "playing Ukulele",
+    "dancing Salsa",
+    "blogger"
   ],
   "experience": [
     {
