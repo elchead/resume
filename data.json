@@ -12,7 +12,7 @@
       "institution": "Technical University Munich",
       "qualification": "Computational Science & Engineering MSc",
       "duration": "Oct 2020 - 2023",
-      "description": "Focus on distributed and parallel computing"
+      "description": "focus on distributed and parallel computing"
     },
     {
       "institution": "UPC, Barcelona",
@@ -28,7 +28,7 @@
       "institution": "Technical University Berlin",
       "qualification": "Engineering Science BSc",
       "duration": "Oct 2017 - Oct 2020",
-      "description": "Focus on numerical simulation and fluid mechanics (top 5%)"
+      "description": "focus on numerical simulation and fluid mechanics (top 5%)"
     }
   ],
   "honors": [
@@ -67,7 +67,7 @@
     {
       "role": "Working student",
       "duration": "Oct 2018 - Sept 2019",
-      "description": "Development of a new data analysis tool (Python) for combustion experiments at the Institute of Experimental Fluid Dynamics",
+      "description": "development of a new data analysis tool (Python) for combustion experiments at the Institute of Experimental Fluid Dynamics",
       "company": "TU Berlin"
     }
   ],
@@ -75,25 +75,25 @@
     {
       "name": "K8s migration controller",
       "link": "https://github.com/elchead/k8s-migration-controller",
-      "description": "A controller to preemptively migrate stateful jobs in K8s based on memory usage",
+      "description": "a controller to preemptively migrate stateful jobs in K8s based on memory usage",
       "date": "Feb 2022 - Aug 2022"
     },
     {
       "name": "Personal CRM",
       "link": "https://github.com/elchead/people",
-      "description": "A Progressive Web App to stay in touch with people",
+      "description": "a Progressive Web App to stay in touch with people",
       "date": "Mar 2022"
     },
     {
       "name": "Personal Search Engine",
       "link": "https://github.com/elchead/misou",
-      "description": "A native app to gather information from multiple sources ",
+      "description": "a native app to gather information from multiple sources ",
       "date": "Oct 2021 - Jan 2022"
     },
     {
       "name": "Blog CLI",
       "link": "https://github.com/elchead/blog-cli",
-      "description": "A tool to draft posts inside Obsidian and publish conveniently to my Github blog",
+      "description": "a tool to draft posts inside Obsidian and publish conveniently to my Github blog",
       "date": "Nov 2021"
     }
   ]
