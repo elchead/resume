@@ -52,6 +52,12 @@
     "blogger"
   ],
   "experience": [
+    { 
+      "role": "Rust developer - part time",
+    "duration": "Nov 2022 - Present",
+    "description": "exploring a new infrastructure platform built with Firecracker",
+     "company": "Deta",
+    },
     {
       "role": "Rotational Trainee (STAR program)",
       "duration": "Mar 2021 - Present",
