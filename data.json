@@ -79,8 +79,8 @@
   ],
   "project": [
     {
-      "name": "K8s migration controller",
-      "link": "https://github.com/elchead/k8s-migration-controller",
+      "name": "Optimistic job scheduling through stateful pod migration to improve cluster resource utilization in Kubernetes (Master's thesis",
+      "link": "https://blog.astobbe.me/the-potential-of-pod-migrations-in-kubernetes",
       "description": "a controller to preemptively migrate stateful jobs in K8s based on memory usage",
       "date": "Feb 2022 - Aug 2022"
     },
