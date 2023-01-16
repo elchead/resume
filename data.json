@@ -52,16 +52,16 @@
     "blogger"
   ],
   "experience": [
-    { 
+    {
       "role": "Rust developer - part time",
-    "duration": "Nov 2022 - Present",
-    "description": "exploring a new infrastructure platform built with Firecracker",
-     "company": "Deta"
+      "duration": "Nov 2022 - Present",
+      "description": "exploring a new infrastructure platform built with Firecracker",
+      "company": "Deta"
     },
     {
       "role": "Rotational Trainee (STAR program)",
       "duration": "Mar 2021 - Present",
-      "description": "development on OSS Kubernetes as-a-Service project (Gardener); Master’s thesis on resource management for HPC jobs with unpredictable memory needs in Kubernetes through container migration and controlling; part of the Observability + CLI team of an OSS Kubernetes runtime project (Kyma)",
+      "description": "development on OSS Kubernetes as-a-Service project (Gardener); Master’s thesis on resource management for HPC jobs with unpredictable memory needs in Kubernetes through container migration; part of the Observability + CLI team of an OSS Kubernetes runtime project (Kyma)",
       "company": "SAP SE"
     },
     {
@@ -73,7 +73,7 @@
     {
       "role": "Working student",
       "duration": "Oct 2018 - Sept 2019",
-      "description": "development of a new data analysis tool (Python) for combustion experiments at the Institute of Experimental Fluid Dynamics",
+      "description": "data analysis for combustion experiments (Python)",
       "company": "TU Berlin"
     }
   ],
