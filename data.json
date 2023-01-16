@@ -4,7 +4,7 @@
   "github": "elchead",
   "email": "stobbe.adrian@gmail.com",
   "website": "astobbe.me",
-  "languages": ["Golang", "Python", "JavaScript", "C++", "Rust"],
+  "languages": ["Go", "Python", "JavaScript", "C++", "Rust"],
   "software": ["Git", "Bash", "Powershell"],
   "platforms": ["Arduino", "Raspberry Pi", "Linux"],
   "education": [
@@ -46,10 +46,10 @@
     }
   ],
   "hobbies": [
-    "linguaphile speaking conversational Chinese, fluent Spanish",
+    "linguaphile speaking Spanish and Mandarin",
     "playing Ukulele",
     "dancing Salsa",
-    "blogger"
+    "blogging"
   ],
   "experience": [
     {
