@@ -95,7 +95,9 @@ function App() {
               ))}
             </div>
           </Section>
-
+          <Section title="Programs / Hackathons">
+            <Hobbies list={data.programs} />
+          </Section>
           <Section title="Hobbies">
             <Hobbies list={data.hobbies} />
             {/* <div className="grid gap-y-2">

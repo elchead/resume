@@ -5,14 +5,11 @@
   "email": "stobbe.adrian@gmail.com",
   "website": "astobbe.me",
   "languages": ["Go", "Python", "JavaScript", "C++", "Rust"],
-  "software": ["Git", "Bash", "Powershell"],
-  "platforms": ["Arduino", "Raspberry Pi", "Linux"],
   "education": [
     {
       "institution": "Technical University Munich",
       "qualification": "Computational Science & Engineering MSc",
-      "duration": "Oct 2020 - 2023",
-      "description": "focus on distributed and parallel computing"
+      "duration": "Oct 2020 - Mar 2023"
     },
     {
       "institution": "UPC, Barcelona",
@@ -27,8 +24,7 @@
     {
       "institution": "Technical University Berlin",
       "qualification": "Engineering Science BSc",
-      "duration": "Oct 2017 - Oct 2020",
-      "description": "focus on numerical simulation and fluid mechanics (top 5%)"
+      "duration": "Oct 2017 - Oct 2020"
     }
   ],
   "honors": [
@@ -38,11 +34,7 @@
     },
     {
       "role": "German Academic Scholarship Foundation (Studienstiftung)",
-      "duration": "Sept 2019 - Present"
-    },
-    {
-      "role": "Deutschlandstipendium at TU Berlin",
-      "duration": "Oct 2017 - Sept 2019"
+      "duration": "Sept 2019 - Mar 2023"
     }
   ],
   "hobbies": [
@@ -53,16 +45,16 @@
   ],
   "experience": [
     {
-      "role": "Rust developer - part time",
-      "duration": "Nov 2022 - Present",
-      "description": "exploring a new infrastructure platform built with Firecracker",
-      "company": "Deta"
+      "role": "Rotational Trainee (STAR program)",
+      "duration": "Mar 2021 - Mar 2023",
+      "description": "development on OSS Kubernetes as-a-Service project (Gardener); part of the Observability + CLI team of an OSS Kubernetes runtime project (Kyma)",
+      "company": "SAP SE"
     },
     {
-      "role": "Rotational Trainee (STAR program)",
-      "duration": "Mar 2021 - Present",
-      "description": "development on OSS Kubernetes as-a-Service project (Gardener); Master’s thesis on resource management for HPC jobs with unpredictable memory needs in Kubernetes through container migration; part of the Observability + CLI team of an OSS Kubernetes runtime project (Kyma)",
-      "company": "SAP SE"
+      "role": "Rust developer - part time",
+      "duration": "Nov 2022 - Jan 2023",
+      "description": "exploring a new infrastructure platform built with Firecracker",
+      "company": "Deta"
     },
     {
       "role": "Working student + intern",
@@ -76,6 +68,14 @@
       "description": "data analysis for combustion experiments (Python)",
       "company": "TU Berlin"
     }
+  ],
+  "programs": [
+    "Cloudfest 23 Hackathon",
+    "RustFi 22 Hackathon",
+    "Cornell BigRed hacks 21",
+    "Bosch BSX 20",
+    "Skoda X Innoway Hackathon 20",
+    "Techlabs Web Dev Track 20/21"
   ],
   "project": [
     {
