@@ -4,7 +4,13 @@
   "github": "elchead",
   "email": "stobbe.adrian@gmail.com",
   "website": "adrianstobbe.com",
-  "languages": ["Go", "Python", "JavaScript", "C++", "Rust"],
+  "languages": [
+    "Go",
+    "Python",
+    "JavaScript",
+    "C++",
+    "Rust"
+  ],
   "education": [
     {
       "institution": "Technical University Munich",
@@ -44,6 +50,12 @@
     "blogging"
   ],
   "experience": [
+    {
+      "role": "Software Developer",
+      "duration": "since May 2023",
+      "description": "development on OSS project Constellation to make running Kubernetes on the public cloud secure through cutting edge confidential computing",
+      "company": "Edgeless Systems GmbH"
+    },
     {
       "role": "Rotational Trainee (STAR program)",
       "duration": "Mar 2021 - Mar 2023",
