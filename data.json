@@ -107,12 +107,6 @@
       "link": "https://github.com/elchead/misou",
       "description": "a native app to gather information from multiple sources ",
       "date": "Oct 2021 - Jan 2022"
-    },
-    {
-      "name": "Blog CLI",
-      "link": "https://github.com/elchead/blog-cli",
-      "description": "a tool to draft posts inside Obsidian and publish conveniently to my Github blog",
-      "date": "Nov 2021"
     }
   ]
 }
