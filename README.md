@@ -1,3 +1,8 @@
 # Resume
 
-The repository for [cv.samrobbins.uk](https://cv.samrobbins.uk)
+
+The repository for [cv.adrianstobbe.com](https://cv.adrianstobbe.com)
+
+# Deployment
+Build locally before push:
+`npm run build`
