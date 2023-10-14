@@ -71,7 +71,7 @@ function App() {
               />
             ))}
           </Section>
-          <Section title="Projects">
+          <Section title="Projects" link="https://adrianstobbe.com/projects/">
             <div className="grid gap-y-2">
               {data.project.map((x) => (
                 <Item
