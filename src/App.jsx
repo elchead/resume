@@ -72,7 +72,39 @@ function App() {
             ))}
           </Section>
           <Section title="Projects" link="https://adrianstobbe.com/projects/">
-            <div className="grid gap-y-2">
+          <div>
+      <p>
+        various web-based apps built with Svelte / React.
+      </p>
+      <p>For more details on all of my projects, see the link.</p>
+        {/*<p>a security-focused report system for a NGO, a {' '}
+        <a href="https://github.com/elchead/misou" className="underline text-cyan-600">
+          native personal search engine app
+        </a>, a {' '}
+        <a href="https://github.com/elchead/people" className="underline text-cyan-600">
+           progressive web app for a personal CRM
+        </a>
+      </p>*/}
+      {/*<ul>
+        <li>
+          a security-focused report system for a NGO
+        </li>
+        <li>
+          <a href="https://github.com/elchead/misou" className="underline text-cyan-600">
+            native personal search engine app
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/elchead/people" className="underline text-cyan-600">
+            progressive web app for a personal CRM
+          </a>
+        </li>
+      </ul>*/}
+      {/*<p>for more details on all of my projects see the project page link</p>*/}
+    </div>
+
+
+            {/*<div className="grid gap-y-2">
               {data.project.map((x) => (
                 <Item
                   title={x.name}
@@ -81,7 +113,7 @@ function App() {
                   description={x.description}
                 />
               ))}
-            </div>
+            </div>*/}
           </Section>
           <Section title="Honors / Certificates">
             <div className="grid gap-y-2">
