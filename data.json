@@ -11,6 +11,17 @@
     "C++",
     "Rust"
   ],
+  "tools": [
+    "Kubernetes",
+    "Terraform",
+    "Helm",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Svelte",
+    "React",
+    "OpenMP"
+  ],
   "education": [
     {
       "institution": "Technical University Munich",

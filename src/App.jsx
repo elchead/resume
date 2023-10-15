@@ -30,6 +30,7 @@ function App() {
           <Section title="Skills">
             <>
               <SkillList title="Programming Languages" list={data.languages} />
+              <SkillList title="Tools & Services" list={data.tools} />
               {/* <SkillList
                 title="Libraries & Frameworks"
                 list={data.librariesAndFrameworks}
@@ -76,7 +77,7 @@ function App() {
       <p>
         various cloud (Go, Kubernetes) and web (React, Svelte, Typescript) related ones as well as projects with Python, Rust and C++.
       </p>
-      <p>For more details on all of my projects, see the link.</p>
+      <p>For more details, see the link.</p>
         {/*<p>a security-focused report system for a NGO, a {' '}
         <a href="https://github.com/elchead/misou" className="underline text-cyan-600">
           native personal search engine app
