@@ -74,7 +74,7 @@ function App() {
           <Section title="Projects" link="https://adrianstobbe.com/projects/">
           <div>
       <p>
-        various web-based apps built with Svelte / React.
+        various cloud (Go, Kubernetes) and web (React, Svelte, Typescript) related ones as well as projects with Python, Rust and C++.
       </p>
       <p>For more details on all of my projects, see the link.</p>
         {/*<p>a security-focused report system for a NGO, a {' '}
